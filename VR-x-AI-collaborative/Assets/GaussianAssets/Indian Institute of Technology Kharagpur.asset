@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: Indian Institute of Technology Kharagpur
+  m_EditorClassIdentifier: GaussianSplatting::GaussianSplatting.Runtime.GaussianSplatAsset
+  m_FormatVersion: 20231020
+  m_SplatCount: 315111
+  m_BoundsMin: {x: -239.93126, y: -240.07338, z: -240.44029}
+  m_BoundsMax: {x: 240.06874, y: 239.92662, z: 239.55971}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: da2d8a84e45916940a6c63e5ff97fc01
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_PosData: {fileID: 4900000, guid: 5f9e419e9fd1ab042a066a23981f0205, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 15fe6a5a56bb7484d880eb3c51f2b940, type: 3}
+  m_OtherData: {fileID: 4900000, guid: e6868766f8d7d2f4aa1519e5de51434d, type: 3}
+  m_SHData: {fileID: 4900000, guid: f121b99d4700c0e4f89534a8138282bc, type: 3}
+  m_ChunkData: {fileID: 0}
+  m_Cameras: []
